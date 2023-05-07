@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WildlifePhotography</string>
+
+    <string name="andrew_mayes">Andrew Mayes (2021)</string>
+    <string name="monday_morning_mood">Monday Morning Mood</string>
+    <string name="chee_kee_teo">Chee Kee Teo (2021)</string>
+    <string name="time_for_school">Time For School</string>
+    <string name="miroslav_srb">Miroslav Srb (2022)</string>
+    <string name="hello_everyone">Hello everyone</string>
+    <string name="giacomo_redaelli">Giacomo Redaelli (2019)</string>
+    <string name="symphonyno5">Symphony No.5</string>
+    <string name="kevin_biskanorn">kevin Biskanorn (2021)</string>
+    <string name="quarantine_life">Quarantine Life</string>
+    <string name="shane_keena">Shane Keena (2018)</string>
+    <string name="peek_a_boo">Peek a boo</string>
+    <string name="tibor_kercz">Tibor Kercz (2017)</string>
+    <string name="help">Help</string>
+    <string name="tom_sables">Tom Sables (2016)</string>
+    <string name="head_shot">Head Shot</string>
+    <string name="troy_mayne">Troy Mayne (2017)</string>
+    <string name="slap">Slap</string>
+    <string name="yarin_klein">Yarin Klein (2020)</string>
+    <string name="we_all_have">We all have that friend</string>
+
+</resources>
