@@ -1,6 +1,6 @@
 # Jetpack-Compose-Wildlife-Photography
 
-Wildlife-Photography is an easy app where you can find different funny wildlife photographs that were shortlisted to compete at Comedy Wildlife Photography Awards in different years. I create this app following the instructions in the Android Studio codelab.
+### Wildlife-Photography is an easy app where you can find different funny wildlife photographs that were shortlisted to compete at Comedy Wildlife Photography Awards in different years. I create this app following the instructions in the Android Studio codelab.
 
 
 
